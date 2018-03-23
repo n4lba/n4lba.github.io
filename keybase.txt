@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/n4lba
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://n4lba.github.io
+  * I am n4lba (https://keybase.io/n4lba) on keybase.
+  * I have a public key ASBVEeCLv0uxbHXs1RR1UWl9AF-3ABsjhLoKDx_SRJq1Mgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e4aa2eae5a3e9ee231c55e455a6277ba2aa847ec86c1e111ba4edc7499549f170a",
+      "host": "keybase.io",
+      "kid": "01205511e08bbf4bb16c75ecd5147551697d005fb7001b2384ba0a0f1fd2449ab5320a",
+      "uid": "66a65f8f5d381d041edc2b9af52b8b19",
+      "username": "n4lba"
+    },
+    "merkle_root": {
+      "ctime": 1521845080,
+      "hash": "669800e0aa1b406612a21d53ef7ff9edbc469b7f6f4393546ec825517251c86a850b81ef49d2da95aad46a18501316be4f1eb7fc1648931d8364e09794ccc3c8",
+      "hash_meta": "96e541f3577c00e461236b411a6a68778b953e4c849631289e076a35219ae8f4",
+      "seqno": 2280557
+    },
+    "service": {
+      "hostname": "n4lba.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1521845297,
+  "expire_in": 504576000,
+  "prev": "9a91003ad721c08983c0fd6394f10d272563908a6321037b14c7224182afa623",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVRHgi79LsWx17NUUdVFpfQBftwAbI4S6Cg8f0kSatTIKp3BheWxvYWTFA0V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTRhYTJlYWU1YTNlOWVlMjMxYzU1ZTQ1NWE2Mjc3YmEyYWE4NDdlYzg2YzFlMTExYmE0ZWRjNzQ5OTU0OWYxNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNTUxMWUwOGJiZjRiYjE2Yzc1ZWNkNTE0NzU1MTY5N2QwMDVmYjcwMDFiMjM4NGJhMGEwZjFmZDI0NDlhYjUzMjBhIiwidWlkIjoiNjZhNjVmOGY1ZDM4MWQwNDFlZGMyYjlhZjUyYjhiMTkiLCJ1c2VybmFtZSI6Im40bGJhIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIxODQ1MDgwLCJoYXNoIjoiNjY5ODAwZTBhYTFiNDA2NjEyYTIxZDUzZWY3ZmY5ZWRiYzQ2OWI3ZjZmNDM5MzU0NmVjODI1NTE3MjUxYzg2YTg1MGI4MWVmNDlkMmRhOTVhYWQ0NmExODUwMTMxNmJlNGYxZWI3ZmMxNjQ4OTMxZDgzNjRlMDk3OTRjY2MzYzgiLCJoYXNoX21ldGEiOiI5NmU1NDFmMzU3N2MwMGU0NjEyMzZiNDExYTZhNjg3NzhiOTUzZTRjODQ5NjMxMjg5ZTA3NmEzNTIxOWFlOGY0Iiwic2Vxbm8iOjIyODA1NTd9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibjRsYmEuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDUifSwiY3RpbWUiOjE1MjE4NDUyOTcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiOWE5MTAwM2FkNzIxYzA4OTgzYzBmZDYzOTRmMTBkMjcyNTYzOTA4YTYzMjEwMzdiMTRjNzIyNDE4MmFmYTYyMyIsInNlcW5vIjoxOCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEANr8h8ZCuDWVuVmz7uurcxJ2ovUcp6jNZvJjA655WFmHU1w1hOH/gk4tFveeFPwXDKDhsBLXfVm9hcoJ7ZBrkPqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgWAQeXsoVgaLP2HrbyVwkZkjWaig39B44J2ZhZlTV5KmjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/n4lba
+
+==================================================================
