@@ -14,5 +14,3 @@ HpduMgOZspqRjXc+W+wIcgiex0dh5fadQKxfb+W5/GubE9zrfnBHbO/ix3JnqVWJ
 =RwDo
 -----END PGP MESSAGE-----
 
-
-## M Y R
